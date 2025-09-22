@@ -1,6 +1,7 @@
 module DivFreq(ClkIn,ClkOut);
 
 parameter BUS_SIZE = 8;
+
 parameter NBT = 30;
 parameter NBTON = 10;
 parameter POLARITY = 1;	
